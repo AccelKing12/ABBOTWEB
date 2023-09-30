@@ -30,7 +30,7 @@ export default function Home() {
       <div className='mb-20'>
         <h6 className='text-4xl mb-6'>Portfolio</h6>
         <p className='md:w-[70%] '>
-          I'm Abraham Dwamena, a passionate web developer with expertise in web and software development. I'm dedicated to creating innovative solutions to help your business grow online.
+          I&apos;m Abraham Dwamena, a passionate web developer with expertise in web and software development. I&apos;m dedicated to creating innovative solutions to help your business grow online.
         </p>
         <div className='mt-8'>
           <p className='flex items-center my-2'><span className='text-2xl mr-3'><BsDot/></span>HTML</p>
