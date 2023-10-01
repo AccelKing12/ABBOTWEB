@@ -154,7 +154,7 @@ export default function Home() {
       <div className='mb-20'>
        <h6 className='relative text-5xl pb-7'>Get in Touch<span className="absolute inset-x-1/2 bottom-0 left-0 h-0.5 origin-left bg-red-500 transform scale-x-50 "/></h6>
         <p className=' mt-12'>
-        Are you looking for a fast-performing and user-friendly website to represent your product or business? or looking for any kind of consultation? or want to ask questions? or have some advice for me or just want to say "Hi 👋" in any case feel free to Let me know. I will do my best to respond back. 😊 The quickest way to reach out to me is via an email.
+        Are you looking for a fast-performing and user-friendly website to represent your product or business? or looking for any kind of consultation? or want to ask questions? or have some advice for me or just want to say &quot;Hi 👋&quot; in any case feel free to Let me know. I will do my best to respond back. 😊 The quickest way to reach out to me is via an email.
         </p>
         <p className='flex items-center my-2 border border-red-500 px-9 py-4 rounded w-fit mt-8'>abrahamdw882@gmail.com</p>
       </div>
