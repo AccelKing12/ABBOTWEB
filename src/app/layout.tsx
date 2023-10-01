@@ -14,6 +14,7 @@ export const metadata: Metadata = {
     siteName: 'ABRAHAM PORTFOLIO',
     description: 'A portfolio',
     url: 'https://abbotweb.vercel.app',
+    images:[{url:'https://abbotweb.vercel.app/_next/image?url=%2Fslow.jpg&w=640&q=75', width: 800, height: 600}]
 }
 }
 
