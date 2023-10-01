@@ -53,10 +53,10 @@ export default function Home() {
     <div className='flex flex-col justify-center w-full md:w-1/2 order-2 md:order-1 '>
       <div className='mb-20'>
         <h6 className=' text-5xl pb-7 text-center md:text-start'>Calculator</h6>
-        <p className='text-center md:text-start  md:w-[70%] '>
+        <p className='text-center md:text-start  md:w-[70%] text-slate-300'>
           I CAN BUILD A CALCULATOR FOR U WITH SIMPLE C++ CODES🤪
         </p>
-        <div className='mt-8 flex flex-wrap justify-center md:justify-normal'>
+        <div className='mt-8 flex flex-wrap justify-center md:justify-normal text-slate-300'>
           <p className='flex items-center my-2'><span className='text-2xl mr-3'><BsDot/></span>React</p>
           <p className='flex items-center my-2'><span className='text-2xl mr-3'><BsDot/></span>Next.js</p>
           <p className='flex items-center my-2'><span className='text-2xl mr-3'><BsDot/></span>Node</p>
@@ -77,11 +77,11 @@ export default function Home() {
       <Image src="/kick.jpg" className='w-full h-auto' width={520} height={280} alt='slow'/>
     </div>
   </div>
-  <div className="flex flex-row md:max-w-[1034px] mx-4 sm:mx-40 xl:mx-auto pt-10 mt-20 justify-between text-center md:text-start">
+  <div className="flex flex-row md:max-w-[1034px] mx-4 sm:mx-40 xl:mx-auto pt-10 md:mt-20 justify-between text-center md:text-start">
     <div className='flex flex-col xl:flex-row items-center justify-between w-full'>
       <div className='mb-20 w-full p-10'>
         <h6 className=' text-5xl pb-7'>Notificator</h6>
-        <p className=''>
+        <p className='text-slate-300'>
           Services Website development Complete web solutions with hosting and maintenance. Graphics design Designs for social media and branding. software development Custom software solutions for your business.
         </p>
         <div className='mt-8 flex md:flex-row flex-col items-center md:gap-12 gap-4 justify-center md:justify-normal'>
@@ -153,7 +153,7 @@ export default function Home() {
   <div className="flex flex-row  px-4 md:px-40 pt-40 justify-between items-center  md:max-w-[1034px]   xl:mx-auto">
       <div className='mb-20'>
        <h6 className='relative text-5xl pb-7'>Get in Touch<span className="absolute inset-x-1/2 bottom-0 left-0 h-0.5 origin-left bg-red-500 transform scale-x-50 "/></h6>
-        <p className=' mt-12'>
+        <p className=' mt-12 text-slate-400'>
         Are you looking for a fast-performing and user-friendly website to represent your product or business? or looking for any kind of consultation? or want to ask questions? or have some advice for me or just want to say &quot;Hi 👋&quot; in any case feel free to Let me know. I will do my best to respond back. 😊 The quickest way to reach out to me is via an email.
         </p>
         <p className='flex items-center my-2 border border-red-500 px-9 py-4 rounded w-fit mt-8'>abrahamdw882@gmail.com</p>
