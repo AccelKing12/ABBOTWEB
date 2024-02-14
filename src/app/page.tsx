@@ -67,7 +67,7 @@ export default function Home() {
             Connect With Me and My Team 👇
           </p>
           <div className='mt-8 flex flex-col md:flex-row items-center gap-5 justify-center text-center p-2'>
-            <p className='flex items-center my-2 bg-green-600 p-2 rounded'><span className='text-2xl mr-3'><BsWhatsapp/></span> Contact ABRAHAH</p>
+            <p className='flex items-center my-2 bg-green-600 p-2 rounded'><span className='text-2xl mr-3'><BsWhatsapp/></span> <a href="ab-web.vercel.app">Contact ABRAHAM </a></p>
             <p className='flex items-center my-2 bg-green-600 p-2 rounded'><span className='text-2xl mr-3'><BsWhatsapp/></span>Contact Philemon</p>
           </div>
         </div>
